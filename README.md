@@ -1,1 +1,1 @@
-#  RyParis Mockup
+#  Sample of a Project
